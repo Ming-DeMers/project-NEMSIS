@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8ab99198590f1ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc49ef361769ef2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec83834c561086bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "d4ee1aed636c02f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEMSIS projcts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NEMSIS projcts"
+            }
+          },
+          {
+            "id": "4dd5dd180c390c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8a7f930b7205d08",
+    "type": "split",
+    "children": [
+      {
+        "id": "947d80174166ec48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7109df3f40cb4b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d10981c3488b569b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f24921155b6f3c93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5706e5ab1b75347f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18464ae1a28083a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d413deea455bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overall story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overall story"
+            }
+          },
+          {
+            "id": "30c09b8cdbc17343",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overall story.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overall story"
+            }
+          },
+          {
+            "id": "7445d346b7edcd75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e5ef8a8cbea55f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overall story.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Overall story"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4dd5dd180c390c9f",
+  "lastOpenFiles": [
+    "Writeups/NEMSIS projcts.md",
+    "README.md",
+    "Overall story.md",
+    "Writeups",
+    "CSP Proposal.md",
+    "Unconfirmed 351335.crdownload",
+    "Writeups/NEMSIS Data Proj.md",
+    "Unconfirmed 87074.crdownload",
+    "Current literature"
+  ]
+}
