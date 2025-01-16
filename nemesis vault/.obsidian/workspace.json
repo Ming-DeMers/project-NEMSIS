@@ -8,49 +8,203 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec83834c561086bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "d4ee1aed636c02f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEMSIS projcts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NEMSIS projcts"
-            }
-          },
-          {
             "id": "4dd5dd180c390c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CSP Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CSP Proposal"
+            }
+          },
+          {
+            "id": "30e73ddbde325f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSP Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSP Proposal"
+            }
+          },
+          {
+            "id": "95113dff7af0d028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Articles"
+            }
+          },
+          {
+            "id": "44b9beee95d4bcb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Did UberX reduce ambulance volume.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Did UberX reduce ambulance volume"
+            }
+          },
+          {
+            "id": "6bc4386cac9a321f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Articles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Articles"
+            }
+          },
+          {
+            "id": "1c9306118cf8a06a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Injury-based Geographic Access to Trauma Centers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Injury-based Geographic Access to Trauma Centers"
+            }
+          },
+          {
+            "id": "cfc4e632e763bbf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Association Between Emergency Medical Service Response Time and Motor Vehicle Crash Mortality in the United States.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Association Between Emergency Medical Service Response Time and Motor Vehicle Crash Mortality in the United States"
+            }
+          },
+          {
+            "id": "8ebb11514096a532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/The effect of rural hospital closures on emergency medical service response and transport times.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The effect of rural hospital closures on emergency medical service response and transport times"
+            }
+          },
+          {
+            "id": "b318a968d1d2dec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/Socioeconomic disparities in prehospital cardiac arrest outcomes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Socioeconomic disparities in prehospital cardiac arrest outcomes"
+            }
+          },
+          {
+            "id": "fc3fa06dc26eb165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current literature/The effect of rural hospital closures on emergency medical service response and transport times.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The effect of rural hospital closures on emergency medical service response and transport times"
+            }
+          },
+          {
+            "id": "999c98386777de73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overall story.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overall story"
+            }
+          },
+          {
+            "id": "b79057ed37b71085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thoughts"
+            }
+          },
+          {
+            "id": "8e1346c65e69faa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thoughts"
+            }
+          },
+          {
+            "id": "ad77282c801c5603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -191,13 +345,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4dd5dd180c390c9f",
+  "active": "8e1346c65e69faa0",
   "lastOpenFiles": [
-    "Writeups/NEMSIS projcts.md",
-    "README.md",
+    "Current literature/Differences in Out-of-Hospital Cardiac Arrest Management and Outcomes across Urban, Suburban, and Rural Settings.md",
+    "Current literature/Differences in Out-of-Hospital Cardiac Arrest Management and Outcomes across Urban, Suburban, and Rural Settings.pdf",
+    "thoughts.md",
     "Overall story.md",
-    "Writeups",
     "CSP Proposal.md",
+    "Current literature/Retrospective cross sectional analysis of demographic disparities in outcomes of CPR performed by EMS providers in the United States.md",
+    "ridealongs.md",
+    "Timeline.md",
+    "Current literature/The effect of rural hospital closures on emergency medical service response and transport times.md",
+    "Current literature/Socioeconomic disparities in prehospital cardiac arrest outcomes.md",
+    "Current literature/Association Between Emergency Medical Service Response Time and Motor Vehicle Crash Mortality in the United States.md",
+    "Current literature/Injury-based Geographic Access to Trauma Centers.md",
+    "Current literature/Articles.md",
+    "Current literature/Is Use of Warning Lights and Sirens Associated With Increased Risk of Ambulance Crashes. A Contemporary Analysis Using National EMS Information System (NEMSIS) Data.md",
+    "Current literature/Did UberX reduce ambulance volume.md",
+    "Untitled",
+    "README.md",
+    "Writeups/NEMSIS projcts.md",
+    "Writeups",
     "Unconfirmed 351335.crdownload",
     "Writeups/NEMSIS Data Proj.md",
     "Unconfirmed 87074.crdownload",
