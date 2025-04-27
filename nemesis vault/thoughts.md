@@ -11,3 +11,8 @@ reach out ot John, union people to interview? how anonymous?
 Need to show effort, research, ***stories***, here.
 
 
+## Questions:
+
+- Can I find distance transport?
+
+[[ridealongs]]
